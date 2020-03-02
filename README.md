@@ -1,2 +1,1 @@
-# dw_matrix_car
-Predicting the cars value
+# Forecasting the price of cars
