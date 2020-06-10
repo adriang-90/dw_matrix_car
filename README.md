@@ -1,1 +1,1 @@
-# Forecasting the prices of cars
+# Forecasting cars prices
